@@ -1,7 +1,7 @@
 
 * [Introduction](introduction.md)
 
-* I) Vérifications et indexation
+* I) Indexation
 
   * [Vérifier l'indexation](debuter.md)
   * [Sitemap](sitemap.md)
