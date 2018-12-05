@@ -1,7 +1,7 @@
 
-  - [Présentation](README.md)
+* [Présentation](README.md)
 
-- Premières choses à faire
+* Premières choses à faire
 
-  - [Vérifier l'indexation](/pages/debuter.md)
-  - [Sitemap](/pages/sitemap.md)
+  * [Vérifier l'indexation](debuter.md)
+  * [Sitemap](sitemap.md)
