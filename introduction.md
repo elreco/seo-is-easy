@@ -1,13 +1,15 @@
-# Fiche technique SEO
+# Documentation pour le référencement naturel
 
-> A. Le Corre.
+!> Écrit par A. Le Corre :rocket:  pour Le Cercle digital :metal:
+>Cette documentation est sesceptible d'être complétée ou modifiée.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Introduction
 ---
 
-Nous devons optimiser chacun de nos sites afin qu'ils répondent aux besoin des moteurs de recherche. Pour ça, il faut donc optimiser le **référencement** (SEO) : cela consiste à compléter des informations sur le site internet comme des balises, ou à adopter des bonnes pratiques.
+Nous devons optimiser chacun de nos sites afin qu'ils répondent aux besoin des moteurs de recherche. Pour cela, il faut donc optimiser le **référencement** (SEO) : cela consiste à compléter des informations sur le site internet comme des balises ou à adopter des bonnes pratiques.
+
+>Ce guide a été rédigé à partir des conseils et des bonne pratiques donnés par Google.
 
 ## Glossaire
 ---

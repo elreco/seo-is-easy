@@ -1,7 +1,20 @@
 
-* [Présentation](README.md)
+* [Introduction](introduction.md)
 
-* Premières choses à faire
+* I) Vérifications et indexation
 
   * [Vérifier l'indexation](debuter.md)
   * [Sitemap](sitemap.md)
+  * [Robots.txt](robotstxt.md)
+
+* II) Balises et contenus
+
+  * [Les balises "meta"](meta.md)
+  * [Optimiser nos images](image.md)
+  * [Navigations et liens](navigations.md)
+  * [Version mobile](mobile.md)
+
+* III) Réseaux sociaux
+
+  * [Open Graph](opengraph.md)
+  * [Twitter Cards](twittercards.md)

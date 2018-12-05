@@ -7,15 +7,18 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="css/custom.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      homepage: 'README.md',
-      repo: '',
-      loadSidebar: true
+      name: 'Fiche Technique SEO',
+      homepage: 'introduction.md',
+      repo: 'https://github.com/elreco/seo-is-easy',
+      logo: '/img/logo.png',
+      loadSidebar: true,
+      themeColor: '#760F26'
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
