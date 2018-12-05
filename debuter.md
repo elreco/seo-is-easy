@@ -1,4 +1,4 @@
-# Première chose à faire
+# Vérifier l'indexation
 
 Déterminer si le site sur lequel nous travaillons **est présent** dans l'index Google.
 
