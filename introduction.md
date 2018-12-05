@@ -13,7 +13,7 @@ Nous devons optimiser chacun de nos sites afin qu'ils répondent aux besoin des 
 
 ## Glossaire
 ---
-Voici un bref glossaire des termes importants utilisés dans ce guide :
+Voici un bref glossaire des termes importants utilisés dans cette documentation :
 
 **Index** : Google stocke toutes les pages Web qu'il connaît dans son index. Chaque entrée de l'index décrit le contenu et l'emplacement (URL) d'une page. On parle d'indexation quand Google explore une page, qu'il la lit et l'ajoute à son index : Google a indexé plusieurs pages de mon site aujourd'hui.
 
