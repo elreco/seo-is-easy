@@ -9,6 +9,12 @@ Exemple :
 <img src="/images/gare-de-tours.png" alt="Gare de Tours">
 ~~~~
 
+### Sur ModX
+
+Sur ModX, chaque image du site comporte un champs personnalisé "Alt Image" que l'on peut remplir depuis le Manager.
+
+![ModX Alt Image](/img/modx_alt_image.png)
+
 # Aider les moteurs de recherche à trouver nos images
 
 Un [sitemap pour images](https://support.google.com/webmasters/answer/178636?hl=fr) fournit à Googlebot plus d'informations sur les images de notre site. 

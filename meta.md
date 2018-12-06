@@ -16,6 +16,13 @@ Exemple pour la page d'accueil du site de la formation continue :
 </head>
 ~~~~
 
+### Sur ModX
+
+Pour renseigner la balise meta "title" sur ModX il suffit de renseigner le champs "Titre" sur chacune des pages. 
+>À noter qu'il ne faut pas rajouter le nom du site, il est rebnseigné automatiquement dans le code source sur nos sites
+
+![ModX Meta Title](/img/modx_meta_title.png)
+
 # Renseigner la balise meta "description"
 
 Les balises Meta "description" sont importantes, car Google pourrait les utiliser comme des extraits pour vos pages. Cependant, Google peut choisir d'utiliser une section pertinente du texte visible de notre page si elle correspond à une requête de l'internaute.
@@ -36,6 +43,12 @@ Voici à quoi ressemble la balise meta "description"
   <meta name="description" content="Le Cercle digital est une marque fédératrice de services dans les domaines de la transition digitale. Une agence éditoriale spécialisée en édition, une agence digitale spécialisée dans les nouvelles technologies, une école supérieure de communication et de journalisme et un centre de formation aux métiers du numérique.">
 </head>
 ~~~~
+
+### Sur ModX
+
+Pour renseigner la balise meta "description" sur ModX il faut remplir le champs "Description" sur **chacune des pages**.
+
+![ModX Meta Description](/img/modx_meta_description.png)
 
 # Pour aller plus loin : balisage de données structurées
 

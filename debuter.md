@@ -8,7 +8,7 @@ Pour le vérifier, il suffit de taper dans la barre Google : *site:exemple.le-ce
 **Si le site ne figure pas dans Google**, c'est pour l'une des raisons suivants :
 
 - Nous venons de mettre en ligne le site, et Google n'a pas encore eu le temps de l'explorer.
-- Nos règles nous empêchent d'explorer le site.
+- Nos règles empêchent Google d'explorer le site.
 - Le nombre de sites Web avec des liens vers notre site est insuffisant.
 - D'autres raisons obscures...
 

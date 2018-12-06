@@ -18,3 +18,6 @@
 
   * [Open Graph](opengraph.md)
   * [Twitter Cards](twittercards.md)
+* Statut des sites
+
+  * [École](ecole.md)

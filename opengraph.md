@@ -66,6 +66,12 @@ C’est l’URL canonique de notre page : simplement l’URL de la page courante
 </head>
 ~~~~
 
+#### Sur ModX
+
+Ces paramètres Open Graph sont disponibles sur toutes les pages, dans l'onglet "Variables de modèle" > "Social 2"
+
+![ModX Open Graph](/img/modx_og.png)
+
 ### Les balises non obligatoires :
 
 **Og:description**
