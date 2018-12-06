@@ -20,4 +20,4 @@
   * [Twitter Cards](twittercards.md)
 * Statut des sites
 
-  * [École](ecole.md)
+  * [École](sites/ecole.md)
