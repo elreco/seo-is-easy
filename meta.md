@@ -4,9 +4,12 @@ Une balise `<title>` indique aux internautes et aux moteurs de recherche le suje
 ### Bonnes pratiques
 - Décrire avec précision le contenu de la page.
 - Choisir un titre lisible et évocateur du contenu de la page.
+- Eviter les répétitions de mots séparés par une virgule : proposer une vraie phrase, plus incitative au clic pour l'internaute dans les résultats du moteur.
 - Utiliser des titres brefs, mais descriptifs :
 
 Un titre peut être à la fois court et informatif. Si un titre est trop long ou jugé moins pertinent, Google risque de l'afficher **seulement en partie** ou d'afficher **un titre généré automatiquement** dans le résultat de recherche. Google peut également afficher différents titres en fonction de la requête de l'internaute ou de l'appareil utilisé pour la recherche.
+
+>D'après outilref.fr, il ne faudrait pas dépasser 20 mots.
 
 Exemple pour la page d'accueil du site de la formation continue : 
 
@@ -49,6 +52,16 @@ Voici à quoi ressemble la balise meta "description"
 Pour renseigner la balise meta "description" sur ModX il faut remplir le champs "Description" sur **chacune des pages**.
 
 ![ModX Meta Description](/img/modx_meta_description.png)
+
+# Pour info : la balise meta "keywords"
+
+Les mots compris dans cette balise sont les mots clés de la page. C'était une balise très utilisée en SEO : les moteurs Altavista et Infoseek le prenait en compte ; il suffisait de mettre les mots clés de la page dans cette balise pour se positionner sur ces mots.
+
+Parce qu'elle a été utilisée de manière trop abusive (remplissage de liste de mots-clés), les moteurs lui ont retiré toute fonction (Altavista en 2002, Yahoo en 2009). Google ne lui aurait même jamais accordé aucune valeur en SEO.
+
+Depuis donc plus de 10 ans les mots qu'elle contient ne sont plus pris en compte pour le référencement, et ceci quel que soit le moteur. A une petite exception près : Yandex, le moteur de recherche russe, serait le seul à analyser les mots de cette balise pour évaluer la pertinence d'une page sur une requête.
+
+Donc, **ça ne sert strictement à rien de la remplir.**
 
 # Pour aller plus loin : balisage de données structurées
 

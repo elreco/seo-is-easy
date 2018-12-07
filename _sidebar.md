@@ -13,8 +13,9 @@
   * [Optimiser nos images](image.md)
   * [Navigations et liens](navigations.md)
   * [Version mobile](mobile.md)
+  * [Les outils de vérification](outils.md)
 
-* III) Réseaux sociaux
+* IV) Réseaux sociaux
 
   * [Open Graph](opengraph.md)
   * [Twitter Cards](twittercards.md)
