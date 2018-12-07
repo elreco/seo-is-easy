@@ -21,7 +21,7 @@ Exemple pour la page d'accueil du site de la formation continue :
 
 ### Sur ModX
 
-Pour renseigner la balise meta "title" sur ModX il suffit de renseigner le champs "Titre" sur chacune des pages. 
+Pour renseigner la balise meta "title" sur ModX il suffit de renseigner le champs "Titre long" sur **chacune des pages.** 
 >À noter qu'il ne faut pas rajouter le nom du site, il est rebnseigné automatiquement dans le code source sur nos sites
 
 ![ModX Meta Title](/img/modx_meta_title.png)
