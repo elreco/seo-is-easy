@@ -5,11 +5,10 @@ Une balise `<title>` indique aux internautes et aux moteurs de recherche le suje
 - Décrire avec précision le contenu de la page.
 - Choisir un titre lisible et évocateur du contenu de la page.
 - Eviter les répétitions de mots séparés par une virgule : proposer une vraie phrase, plus incitative au clic pour l'internaute dans les résultats du moteur.
+- L’affichage de la balise Title sur Google dépend d’un nombre de pixel, 500 pixels sont disponibles.
 - Utiliser des titres brefs, mais descriptifs :
 
 Un titre peut être à la fois court et informatif. Si un titre est trop long ou jugé moins pertinent, Google risque de l'afficher **seulement en partie** ou d'afficher **un titre généré automatiquement** dans le résultat de recherche. Google peut également afficher différents titres en fonction de la requête de l'internaute ou de l'appareil utilisé pour la recherche.
-
->D'après outilref.fr, il ne faudrait pas dépasser 20 mots.
 
 Exemple pour la page d'accueil du site de la formation continue : 
 
@@ -32,7 +31,7 @@ Les balises Meta "description" sont importantes, car Google pourrait les utilise
 
 ### Bonnes pratiques
 
-Rédiger une description capable d'informer et d'intéresser les internautes qui voient notre balise Meta "description" en tant qu'extrait dans un résultat de recherche. Il **n'existe pas de longueur maximale ou minimale** pour le texte contenu dans une balise Meta "description", mais Google nous recommande de faire en sorte qu'il soit suffisamment long pour **figurer entièrement dans la Recherche** : 
+Rédiger une description capable d'informer et d'intéresser les internautes qui voient notre balise Meta "description" en tant qu'extrait dans un résultat de recherche. Il **n'existe pas de longueur maximale ou minimale** pour le texte contenu dans une balise Meta "description", mais Google nous recommande de faire en sorte qu'il soit suffisamment long pour **figurer entièrement dans la Recherche** (930 pixels): 
 
 ![Meta Description](/img/meta_description.png)
 
@@ -52,6 +51,10 @@ Voici à quoi ressemble la balise meta "description"
 Pour renseigner la balise meta "description" sur ModX il faut remplir le champs "Description" sur **chacune des pages**.
 
 ![ModX Meta Description](/img/modx_meta_description.png)
+
+# Outils en ligne
+
+**Tester nos meta** : http://www.referencement.com/simulateur-serp-pixels/
 
 # Pour info : la balise meta "keywords"
 
