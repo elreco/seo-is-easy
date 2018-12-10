@@ -1,7 +1,7 @@
 # Documentation pour le référencement naturel
 
 !> Écrit par A. Le Corre :rocket:  pour Le Cercle digital :metal:
->Cette documentation est sesceptible d'être complétée ou modifiée.
+>Cette documentation est susceptible d'être complétée ou modifiée.
 
 
 ## Introduction
